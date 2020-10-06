@@ -1,17 +1,14 @@
-<h1 align='center'>Barros & Moraes</h1>
+<h1 align='center'>Atividade proposta em sala de aula</h1>
 
-<p align='center'>Desenvolvemos uma interface gráfica de fácil entendimento e usabilidade para uma loja de sapatos, com o intuito de facilitar o uso durante o expediente de trabalho. Com nosso projeto finalizado desejamos atender da melhor forma possível o usuário final, trazendo a praticidade para o dia a dia de trabalho </p>
+<p align='center'>Nessa atividade desenvolvemos um simulador de caixa eletrônico em Java com programação procedural</p>
 
 ### Features
-- [x] Cadastro de clientes
-- [x] Cadastro de produtos
-- [x] Cadastro de usuários
-- [x] Portifólio de produtos 
-- [x] Vendas
+- [x] Validação de Cpf
+- [x] Validação de senha
+- [x] Saldo
+- [x] Extrato
+- [x] Depósito
+- [x] Saque
 
 
 
-<h1 align="center">
-    <a href="https://github.com/GuiBarrosFACENS/ProjetoCTG">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
