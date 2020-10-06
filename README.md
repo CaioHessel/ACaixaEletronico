@@ -1,6 +1,6 @@
-<h1 align='center'>Atividade proposta em sala de aula</h1>
+<h1 align='center'>Simulador de caixa eletrônico</h1>
 
-<p align='center'>Nessa atividade desenvolvemos um simulador de caixa eletrônico em Java com programação procedural</p>
+<p align='center'>Nessa atividade realizada em sala desenvolvemos um simulador de caixa eletrônico em Java com programação procedural</p>
 
 ### Features
 - [x] Validação de Cpf
